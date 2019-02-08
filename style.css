@@ -129,6 +129,13 @@ section:last-child {
 	color: blue;
 }
 
+#pp h1 {
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-size: 1.5em;
+	color: red;
+}
+
 .sectionContent h2 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
